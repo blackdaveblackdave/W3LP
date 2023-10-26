@@ -2,7 +2,7 @@ import '@rainbow-me/rainbowkit/styles.css'
 import { Providers } from './providers'
 
 export const metadata = {
-  title: 'wagmi',
+  title: 'hold on',
 }
 
 export default function RootLayout({

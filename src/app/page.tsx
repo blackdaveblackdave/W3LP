@@ -16,12 +16,20 @@ import { WatchContractEvents } from '../components/WatchContractEvents'
 import { WatchPendingTransactions } from '../components/WatchPendingTransactions'
 import { WriteContract } from '../components/WriteContract'
 import { WriteContractPrepared } from '../components/WriteContractPrepared'
+import FieldInput from '../FieldInput'
+import NFTPage from '../NFTPage'
 
 export function Page() {
+
   return (
     <>
+
+      <FieldInput />
+
       <h1>wagmi + RainbowKit + Next.js</h1>
 
+      <NFTPage />
+      
       <ConnectButton />
 
       <Connected>
