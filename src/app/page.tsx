@@ -14,7 +14,7 @@ export function Page() {
 
       <Connected>
         <hr />
-        <h1>You're connected.</h1>
+        <h2>Hi. You're connected.</h2>
       </Connected>
     </>
   )

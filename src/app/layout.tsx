@@ -2,7 +2,7 @@ import '@rainbow-me/rainbowkit/styles.css'
 import { Providers } from './providers'
 
 export const metadata = {
-  title: 'hold on',
+  title: 'w3lp?',
 }
 
 export default function RootLayout({
